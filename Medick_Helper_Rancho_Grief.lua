@@ -212,7 +212,7 @@ function main()
   while not isSampAvailable() do wait(1000) end
   if seshsps == 1 then
 	ftext('Medick Helper çàãðóæåí, äîñòóïåí òîëüêî äëÿ ñåðâåðà Cleveland.',-1)
-	ftext('Ãëàâ.Âðà÷: Nope.',-1)
+	ftext('Ãëàâ.Âðà÷: Igor Krylov.',-1)
 	ftext('Ñêðèïò ðåäàêòèðîâàë: Rancho Grief.',-1)
 	ftext('Ôóíêöèè ñêðèïòà êîìàíäà è êíîïêà: /mh (íàñòðîéêè ñêðèïòà), F3 (ãëàâíîå ìåíþ) èëè ÏÊÌ + Z (îòûãðîâêè).',-1)
 	ftext('Ïåðåçàãðóçèòü ñêðèïò åñëè îòêëþ÷èòñÿ, îäíîâðåìåííî çàæàòü CTRL + R.',-1)
